@@ -54,6 +54,7 @@
 - [Networking](#networking)
 - [Miscellaneous](#miscellaneous)
 
+<!-- marklink:start -->
 
 ## Platforms
 
@@ -512,6 +513,7 @@
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
 
+<!-- marklink:end -->
 
 ## License
 
